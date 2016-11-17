@@ -1,0 +1,24 @@
+#controls
+{
+	margin-left: 500px;
+	margin-top: 100px;
+	position: absolute;
+}
+
+h1
+{
+	margin-left: 500px;
+	background-color: green;
+	position: absolute;
+}
+
+body
+{
+	background-color: red;
+}
+
+#result
+{
+	background-color: yellow;
+	position: absolute;
+}
